@@ -10,6 +10,7 @@ workflow before starting our future project.
 3. Push the branch to GitHub and open a pull request.
 4. Ask a teammate to review the pull request.
 5. Resolve any requested changes, then merge the pull request.
+6. 6. Test
 
 ## Getting started
 
